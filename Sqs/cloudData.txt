@@ -1,0 +1,15 @@
+Result of handle - {'name': 'Nick', 'min': 1, 'max': 1514, 'mean': 197.4, 'median': 51.0}
+Result of handle - {'name': 'Nick', 'min': 1, 'max': 1514, 'mean': 197.4, 'median': 51.0}
+Result of handle - {'name': 'Nick', 'min': 1, 'max': 1514, 'mean': 197.4, 'median': 51.0}
+Result of handle - {'name': 'Nick', 'min': 1, 'max': 1514, 'mean': 197.4, 'median': 51.0}
+Result of handle - {'name': 'Nick', 'min': 1, 'max': 1514, 'mean': 197.4, 'median': 51.0}
+Result of handle - {'name': 'Nick', 'min': 1, 'max': 1514, 'mean': 197.4, 'median': 51.0}
+Result of handle - {'name': 'Nick', 'min': 1, 'max': 1514, 'mean': 197.4, 'median': 51.0}
+Result of handle - {'name': 'Nick', 'min': 1, 'max': 1514, 'mean': 197.4, 'median': 51.0}
+Result of handle - {'name': 'Nick', 'min': 1, 'max': 1514, 'mean': 197.4, 'median': 51.0}
+Result of handle - {'name': 'Nick', 'min': 1, 'max': 1514, 'mean': 197.4, 'median': 51.0}
+Result of handle - {'name': 'Nick', 'min': 1, 'max': 1514, 'mean': 197.4, 'median': 51.0}
+Result of handle - {'name': 'Nick', 'min': 1, 'max': 1514, 'mean': 197.4, 'median': 51.0}
+Result of handle - {'name': 'Nick', 'min': 1, 'max': 1514, 'mean': 197.4, 'median': 51.0}
+Result of handle - {'name': 'Nick', 'min': 1, 'max': 1514, 'mean': 197.4, 'median': 51.0}
+Result of handle - {'name': 'Nick', 'min': 1, 'max': 1514, 'mean': 197.4, 'median': 51.0}
