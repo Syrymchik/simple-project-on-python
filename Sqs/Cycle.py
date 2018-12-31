@@ -2,7 +2,6 @@ import statistics
 import time
 import json
 import boto3
-import math
 
 sqs = boto3.resource('sqs')
 s3 = boto3.client('s3')
@@ -33,8 +32,6 @@ while True:
 
     for message in queue.receive_messages(MessageAttributeNames=['Author']):
 
-
-
         data = json.loads(message.body)
         print(data['integers'])
         result = {
@@ -64,9 +61,9 @@ while True:
         val += 1
         print('Val = %d' %val)
 
-        if val == 10:
+        if val == 5:
             s3.upload_file(filename, BUCKET_NAME, filename)
-            val %= 10
+            val %= 5
             print('uploded file - %s\n' %filename)
 
     print('end sqs operation')
